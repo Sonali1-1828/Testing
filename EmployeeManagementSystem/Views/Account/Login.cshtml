@@ -1,0 +1,71 @@
+﻿@model EmployeeManagementSystem.Models.LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>User Login</h2>
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+    <script>
+        alert("@TempData["ErrorMessage"]");
+    </script>
+}
+
+<form asp-action="Login" method="post">
+
+    <div asp-validation-summary="All"></div>
+    <table>
+    <tr>
+            <td>
+                <label>Email</label>
+            </td>
+            <td>
+                <input asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </td>
+        <tr>
+            
+
+    <tr>
+            <td>
+                <label>Password</label>
+            </td>
+            <td>
+                <div class="input-group">
+                    <input asp-for="Password" type="password" id="passwordField" class="form-control" placeholder="Enter password" />
+                    <button type="button" class="btn btn-outline-secondary" onclick="togglePassword()">
+                        👁
+                    </button>
+                </div>
+            </td>
+        <tr> 
+         
+    </table>
+
+    <br/><br/>
+    <label>
+        <input asp-for="RememberMe" />
+        Remember Me
+    </label>
+    <br /><br />
+
+    <button type="submit">Login</button>
+
+</form>
+
+<a asp-action="Register">Create New Account</a>
+
+@section Scripts {
+    <script>
+        function togglePassword() {
+            var pass = document.getElementById("passwordField");
+            if (pass.type === "password") {
+                pass.type = "text";
+            } else {
+                pass.type = "password";
+            }
+        }
+    </script>
+}

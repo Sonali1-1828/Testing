@@ -1,0 +1,101 @@
+
+/*html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}_*/
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: #f8fafc !important;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* ===== Employee Management Pro Theme ===== */
+.navbar {
+    background: #4f46e5 !important;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08) !important;
+}
+
+.card {
+    border: none !important;
+    Background:White;
+    border-radius: 16px !important;
+    text-align:center;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.08) !important;
+}
+
+.table thead {
+    background: #1e293b;
+    color: white;
+}
+
+    .table thead th {
+        border: none;
+        padding: 14px;
+        font-weight: 600;
+    }
+
+.table tbody tr:hover {
+    background: #eef2ff;
+    transition: 0.2s;
+}
+
+.btn-primary {
+    background: #4f46e5 !important;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 8px 20px;
+}
+
+    .btn-primary:hover {
+        background: #4338ca !important;
+    }
+
+.form-control:focus {
+    border-color: #4f46e5 !important;
+    box-shadow: 0 0 0 0.2rem rgba(79,70,229,0.15) !important;
+}
+
+/* Login / Register Card Center */
+.auth-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}

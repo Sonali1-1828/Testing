@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|e:\\sonali\\it\\.netcore\\employeemanagementsystem\\employeemanagementsystem\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{080B99A1-2B86-4FF5-95D3-43D7FB618BAD}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T11:17:47.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T11:01:55.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Account\\Index.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T11:01:44.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T10:56:32.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCcAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T09:40:16.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T09:26:59.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwGQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T09:06:41.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T09:37:18.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\appsettings.json",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-18T09:51:47.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T09:53:39.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T09:31:18.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvyUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T09:30:09.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\RegisterModel.cs",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T10:00:30.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-18T09:28:58.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:26:11.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T12:53:52.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Sonali\\IT\\.netCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-16T12:20:33.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

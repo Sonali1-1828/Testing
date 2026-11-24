@@ -1,0 +1,17 @@
+﻿@model EmployeeManagementSystem.Models.Employee
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h2>Employee Information</h2>
+
+<p><b>Name:</b> @Model.Name</p>
+<p><b>Email:</b> @Model.Email</p>
+<p><b>Department:</b> @Model.Department</p>
+<p><b>Designation:</b> @Model.Designation</p>
+<p><b>Salary:</b> @Model.Salary</p>
+<p><b>Joining Date:</b> @Model.JoiningDate.ToShortDateString()</p>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

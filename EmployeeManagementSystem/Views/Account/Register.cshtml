@@ -1,0 +1,58 @@
+﻿@model EmployeeManagementSystem.Models.RegisterModel
+
+
+@{    ViewData["Title"] = "Register";
+}
+
+<h2>User Registration</h2>
+
+    <form asp-action="Register" method="post">
+        <div asp-validation-summary="All"></div>
+<table>
+       <tr>
+                <td> 
+              <label>FullName</label>
+                </td>
+                <td>
+                    <input asp-for="Name" />
+                    <span asp-validation-for="Name"></span>
+                </td>
+               
+         </tr>
+
+         <tr>
+                <td>
+                    <label>Email </label>
+                </td>
+                <td>
+                    <input asp-for="Email" />
+                    <span asp-validation-for="Email"></span>
+                </td>
+               
+         </tr>
+
+          <tr>
+                <td>
+                    <label>Password</label>
+                </td>
+                <td>
+                    <input asp-for="Password" />
+                    <span asp-validation-for="Password"></span>
+                </td>
+            
+          </tr>
+
+         <tr>
+                <td>
+                    <label>Confirm Password</label>
+                </td>
+                <td>
+                    <input asp-for="ConfirmPassword" />
+                     <span asp-validation-for="ConfirmPassword"></span>
+                </td>
+         </tr>
+        </table>
+        <button type="submit">Register</button>
+    </form>
+
+    <a asp-action="Login">Already Registered? Login</a>
